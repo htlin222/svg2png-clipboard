@@ -35,8 +35,8 @@ classifiers = [
 svg2png-clipboard = "svg2png_clipboard.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/svg2png-clipboard"
-Issues = "https://github.com/yourusername/svg2png-clipboard/issues"
+Homepage = "https://github.com/htlin222/svg2png-clipboard"
+Issues = "https://github.com/htlin222/svg2png-clipboard/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]

@@ -43,7 +43,7 @@ pip install svg2png-clipboard
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/svg2png-clipboard
+git clone https://github.com/htlin222/svg2png-clipboard
 cd svg2png-clipboard
 
 # Install system dependency
